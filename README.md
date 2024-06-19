@@ -1,5 +1,5 @@
 # 💫 About Me:
-With a strong background in database administration, back-end technologies, and programming languages, I am a dynamic and
+With a strong background in database administration, back-end technologies, and various programming languages; such as python, javascript, C/C++, dart, Rust among others, I am a dynamic and
 motivated software engineer that is eager to use my skills to improve the functionality and performance of web
 applications. I am dedicated to helping to develop and maintain reliable, scalable, and effective server-side applications.
 
